@@ -14,7 +14,6 @@ groups=(
 depends=(
 	'bash>=5.1.012'
 	'iproute2>=5.15.0'
-	'wireguard-tools>=1.0.20210914'
 )
 makedepends=(
 	'git'
